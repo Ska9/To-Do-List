@@ -3,7 +3,7 @@
 User-friendly to-do list application that helps you organize and manage your tasks efficiently. Create, prioritize, and track your tasks. Stay productive and focused with this easy-to-use to-do list app.
 
 
-![Project Image](TO DO LIST.jpg)
+![Project Image](TODOLIST.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
